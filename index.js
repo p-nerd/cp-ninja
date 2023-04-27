@@ -30,11 +30,11 @@ Commands:
 Usage:
 ---------
 To create a file with ~/.cp-cpi/template.cpp contents:
-$ cp-cli2 <file name>
+$ cp-ninja <file name>
 Replace <file name> with the name of the file you want to create.
 
 To copy the template file to ~/.cp-cpi/template.cpp:
-$ cp cli set <file name>
+$ cp-ninja set <file name>
 Replace <file name> with the name of the file you want to set the template for.
 `);
     process.exit(0);

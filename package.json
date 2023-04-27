@@ -1,7 +1,7 @@
 {
     "name": "cp-ninja",
     "description": "CLI for CP",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "Shihab Mahamud <shihab4t@gmail.com>",
     "license": "MIT",
     "keywords": [],
