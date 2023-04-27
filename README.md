@@ -34,7 +34,7 @@ Replace <file name> with the name of the file you want to create.
 To copy the template file to ~/.cp-cpi/template.cpp:
 
 ```zsh
-$ cp cli set <file name>
+$ cp-ninja set <file name>
 ```
 
 Replace <file name> with the name of the file you want to set the template for.

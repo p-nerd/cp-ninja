@@ -14,7 +14,7 @@ const argv = {
 
 if (!argv[1] || argv[1] === "help") {
     console.log(`
-cp cli
+cp-ninja
 
 This is a command-line interface (CLI) tool for competitive programming (CP) enthusiasts. The tool provides several functionalities that can help with CP tasks.
 
