@@ -1,16 +1,22 @@
 {
     "name": "cp-ninja",
     "description": "CLI for CP",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "author": "Shihab Mahamud <shihab4t@gmail.com>",
     "license": "MIT",
-    "keywords": [],
-    "homepage": "https://github.com/p-nerd/cp2",
-    "type": "module",
+    "keywords": [
+        "competitive-programming",
+        "codeforces",
+        "cli",
+        "programming-contest",
+        "automation"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/p-nerd/cp2"
     },
+    "homepage": "https://github.com/p-nerd/cp2#readme",
+    "type": "module",
     "main": "index.js",
     "scripts": {
         "start": "node ."
